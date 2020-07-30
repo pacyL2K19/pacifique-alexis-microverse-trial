@@ -1,6 +1,7 @@
 @media screen and (min-width: 900px) {
- #header {
+    header {
       padding: 1rem 3rem;
+      flex : 1
     }
   }
   #nav-bar {
