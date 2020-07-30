@@ -1,0 +1,9 @@
+@media screen and (min-width: 900px) {
+    header {
+      padding: 1rem 3rem;
+    }
+  }
+  #nav-bar {
+    position: fixed;
+    top: 0px;
+  }
